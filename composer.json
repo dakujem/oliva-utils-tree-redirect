@@ -1,0 +1,23 @@
+{
+	"name": "oliva/utils-tree",
+
+	"description": "Redirect package for oliva/tree, previously named oliva/utils-tree.",
+    "keywords": ["tree","utilities","utility","data structures"],
+
+	"type": "library",
+	"authors": [
+		{
+			"name": "Andrej Rypak",
+			"email": "xrypak@gmail.com"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/dakujem/oliva-utils-tree-redirect"
+		}
+	],
+	"require": {
+		"oliva/tree": "*"
+	}
+}
