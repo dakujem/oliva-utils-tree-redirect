@@ -1,7 +1,7 @@
 {
 	"name": "oliva/utils-tree",
 
-	"description": "Redirect package for oliva/tree, previously named oliva/utils-tree.",
+	"description": "Redirect package for oliva/tree, previously named oliva/utils-tree. Please update your composer.json.",
     "keywords": ["tree","utilities","utility","data structures"],
 
 	"type": "library",
@@ -18,7 +18,6 @@
 		}
 	],
 	"require": {
-		"oliva/tree": "dev-master"
-	},
-	"minimum-stability": "dev"
+		"oliva/tree": "^1.1.0"
+	}
 }
